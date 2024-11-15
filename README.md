@@ -86,4 +86,13 @@ Use the `Home`, `Pick`, and `Place` button's for predefiend movement. <br>
 
 Add the coordinates `x`, `y`, `z` for custom movement to that coordinate in space.
 **Note**: There may be stuck in movement sometimes bcz, of inaccurate position calculation, for this go back to home location and rechange the coordinates to destination. <br>
-Do not cross the reach limit of UR5
+Do not cross the reach limit of UR5 <br>
+Example input 1: <br>
+x : 0.0 <br>
+y : 0.0 <br>
+z : 1.0 <br>
+
+Example input 2: <br>
+x : 0.0 <br>
+y : 0.4 <br>
+z : 1.0 <br>
