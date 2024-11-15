@@ -84,7 +84,7 @@ In the control Window, <br>
 
 Use the `Home`, `Pick`, and `Place` button's for predefiend movement. <br>
 
-Add the coordinates `x`, `y`, `z` for custom movement to that coordinate in space.
+Add the coordinates `x`, `y`, `z` for custom movement to that coordinate in space. <br>
 **Note**: There may be stuck in movement sometimes bcz, of inaccurate position calculation, for this go back to home location and rechange the coordinates to destination. <br>
 Do not cross the reach limit of UR5 <br>
 Example input 1: <br>
