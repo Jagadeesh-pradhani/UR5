@@ -75,7 +75,8 @@ python3 move.py
 ```
 
 ### Output
-![alt text](image.png)
+![Screenshot from 2024-11-16 04-24-48](https://github.com/user-attachments/assets/a64538f0-6fd4-4a65-a0ff-de180b169edf)
+
 
 In the control Window, <br>
 `+` : change in position in +direction <br>
